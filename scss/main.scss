@@ -1,0 +1,11 @@
+$coloer--balck: #000;
+$coloer--whitte: #fff;
+
+body {
+  background-color: $coloer--balck;
+  h1 {
+    color: $coloer--whitte;
+    font-size: 40px;
+    display:  flex;
+  }
+}
